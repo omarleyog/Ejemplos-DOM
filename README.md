@@ -1,6 +1,6 @@
-# README _Menjo del Dom_
+# README - _Manejo del Dom_
 
-En este repositorios encontrarás diferentes ejemplos para el uso y manejo del DOM con JavaScript. Aquí podrás visualizar 24 ejercicios prácticas tales como:
+En este repositorios encontrarás diferentes ejemplos para el uso y manejo del DOM con JavaScript. Aquí podrás visualizar 24 ejercicios prácticos tales como:
 
 1. Menú de Hamburgesa
 2. Reloj Digital
